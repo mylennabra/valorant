@@ -1,0 +1,10 @@
+body{
+    background-image: url(assets/bg.svg);
+    background-repeat:repeat;
+}
+
+.btn-nav{
+    background-color:transparent !important;
+    width:fit-content !important;
+    border: none;
+}
