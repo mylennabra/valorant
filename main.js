@@ -1,5 +1,5 @@
 
-if(window.screen.width < 1000){
+if(window.screen.width < 576){
     document.querySelectorAll(".xyz-funcoes").forEach(element => {element.classList.add("flex-column");});
 }
 
